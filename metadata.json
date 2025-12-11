@@ -1,0 +1,9 @@
+{
+  "name": "Health Triage Companion",
+  "description": "A warm, accessible AI companion that helps assess symptoms using video, audio, and images.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
